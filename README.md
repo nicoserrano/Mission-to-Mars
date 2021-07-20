@@ -21,6 +21,12 @@ This project consisted on a Python script to scrape text and images from various
 ## Summary
 ![WebApp_ss](https://user-images.githubusercontent.com/83378141/126406623-e456cc0a-2828-44f9-9383-9512e3350608.png)
 
+*Viewing it from an Iphone:*
+
+![Screen Shot 2021-07-20 at 7 38 40 PM](https://user-images.githubusercontent.com/83378141/126408492-1cf71aed-dcb2-4992-8dab-cce986f0c76f.png)
+![Screen Shot 2021-07-20 at 7 38 59 PM](https://user-images.githubusercontent.com/83378141/126408500-488d129b-a195-4a74-8071-412ba22fe992.png)
+
+
 The final product was a fully-functional web application creted with Flask that included images, a table with information about Mars in comparison to Earth, and the latest article title and short description scraped from the NASA's webpage. Each time we click on the "Scrape New Data" button new information will be updated on both the website and the MongoDB.
 
 ![MongoDB_Mars_ss](https://user-images.githubusercontent.com/83378141/126407244-089f0eb3-181d-4711-bef3-8ea0df916835.png)
