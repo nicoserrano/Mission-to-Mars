@@ -29,3 +29,8 @@ The scrape included a `news_title` with its brief explanation (`news_paragraph`)
 
 In addition, the database will be updated and each time new data is scraped it will be saved with a "last_modified" date to know when was the last time, as you can see in the bottom of the query results. In this case, it was on July 7th of 2021. 
 
+## Code:
+To see the code:
+- App script: [app.py](https://github.com/nicoserrano/Mission-to-Mars/blob/main/app.py)
+- HTML code: [index2.html](https://github.com/nicoserrano/Mission-to-Mars/blob/main/app.py)
+- Scraping script: [scraping.py](https://github.com/nicoserrano/Mission-to-Mars/blob/main/scraping.py)
