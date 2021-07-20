@@ -2,7 +2,7 @@
 #### *HTML Web scraping on Mars data to create a Flask web application using Python and MongoDB*
 
 ## Overview
-
+This project consisted on writing a Python script to scrape information and images from various Mars websites. Then, I created a Flask web application with a rendered HTML template I created using Bootstrap. The data scraped and displayed on the web app was stored in a non-relational Mongo database. 
 
 ## Resources 
 - Web pages scraped: 
